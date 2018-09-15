@@ -175,3 +175,6 @@ esac
 # 256 colour support for xfce4-terminal
 export TERM=xterm-256color
 
+# Set Git credentials
+git config --global user.name "Adam Lambe"
+git config --global user.email "adamlambe3@gmail.com"
